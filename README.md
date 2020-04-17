@@ -1,6 +1,8 @@
 # Programmers Date Challenge 1
 Project Submission for Programmers Date Challenge 1 - 17th April.
 
+<img src="/PD1.jpg" alt="Programmers Date" />
+
 ## Submission Procedure
 Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission. 
 
