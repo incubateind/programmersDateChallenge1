@@ -2,12 +2,15 @@
 ### Pritthijit Nath & Shuvayan Ghosh Dastidar
 #### Jadavpur University, Kolkata, India
 
+## Architecture
+![image][https://drive.google.com/uc?export=view&id=1uWsVhxuYTWAv2MIUNG6VcijVmJOOKaEr]
+
 ## Unique Selling Points
 ### Target : Users and Medical Personnel
 Unlike other apps which solely rely on presenting advice to the users, our idea intends to cater both the users and medical personnel alike, thus creating a strong and more effecient way to stop further spread of COVID-19.
 ### Privacy
 All user data related fields such as `name,  email, phone, occupation, gender` are MD5 hashed, so that in case of an adversarial attack, user data can be kept safe. 
-### HotSpot - Detection  
+### Hotspot - Detection  
 Based on the user location, hotspots will be identified which will help medical personnel to focus more on these specific spots and take appropriate action beforehand. (ToDo)
 ### SIR Model - Simulation
 Medical Personnel will be able to create and analyse simulations on changing various state parameters, thereby helping them to analyse outbreak spread in both a quantitative and qualitative way. (ToDo)
