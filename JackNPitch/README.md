@@ -3,7 +3,7 @@
 #### Jadavpur University, Kolkata, India
 
 ## Architecture
-![image][https://drive.google.com/uc?export=view&id=1uWsVhxuYTWAv2MIUNG6VcijVmJOOKaEr]
+![image](https://drive.google.com/uc?export=view&id=1uWsVhxuYTWAv2MIUNG6VcijVmJOOKaEr)
 
 ## Unique Selling Points
 ### Target : Users and Medical Personnel
