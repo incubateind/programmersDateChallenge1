@@ -1,0 +1,29 @@
+                                      *****Description:******
+To facilitate self testing in rural areas where there are lesser smartphones.
+
+Villages having a greater number of risky patients can be declared as hotspots.
+
+To facilitate easy travel of the announcements and information, made by local authorities time to time, 
+    to each person in the rural areas.
+
+Keep a check of covid cases,statewise.
+
+                                        *****Contents:******
+ 
+ Frontend Part :We made client side on React Framework Path:/The Optimsits/Covid Care /Frontend
+ Backend PArt : We made Serve on Node.js Express and Mongodb  Path:/The Optimsits/Covid Care /Backend 
+                 
+                           *****Ways to Host Project on Localhost:******
+For Frontend:
+1. Go to any Command Promt Write Command 'npm start'
+   (make sure nodejs and react install on your system
+  This will run the react scripts
+2. Run 'npm install' to install all the requried dependencies used in this project
+3. Browse to 'http://localhost:3000'
+  for viewing the website
+For Backend:
+1.Go to any Command Promt Write Command 'npm app.js'
+   (make sure nodejs and 
+  This will start the node server on 'localhost:8000'
+2. Run Mongodb Locally on your system for database services
+or you can change connection url of database for using Atlas ,etc
