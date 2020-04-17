@@ -24,7 +24,7 @@ Based on the self-assessment, the risk factor is calculated thus helping the mod
 1. ExpressJS
 2. MongoDB
 
-### Site :   [https://jacknpitch.herokuapp.com](https://jacknpitch.herokuapp.com) 
+### API :   [https://jacknpitch.herokuapp.com](https://jacknpitch.herokuapp.com) 
 
 ### Documentation
 1. `GET /count` - Retrieves the count of users based on params 
