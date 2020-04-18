@@ -1,0 +1,41 @@
+body{
+  background: white;
+}
+@media only screen and  (min-width: 600px){
+.forms{
+
+   box-shadow: 1px 1px 5px grey ;
+   display: flex;
+    margin:0px 0px;
+
+    padding:25px 15px;
+   
+
+
+}
+.center{
+  margin:70px auto;
+  width:30%;
+}
+
+    
+
+
+
+}
+@media only screen and  (max-width: 600px){
+.forms{
+
+   box-shadow: 1px 1px 5px grey ;
+   display: flex;
+   margin:0px 30px;
+   padding:20px 0px;
+   
+
+
+
+}
+
+   
+
+}
