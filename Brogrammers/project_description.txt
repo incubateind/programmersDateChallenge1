@@ -1,0 +1,72 @@
+CoVid19 Locator
+
+Description:
+
+We have developed an android application which will take the user's location and will also show the quarantined/suspected people around him as well as mass gatherings, for this we will be using the Bluetooth or device location technology to track and trace if the person has come in contact or went near around with anyone having the symptoms. This can be useful in future outbreaks and avoiding a situation of community outbreak as people can be quarantined if necessary. There will be a Dashboard to show the current cases according to the states and the total cases in the country. The app will also show the hospitals which are dedicated for covid-19 treatment as per their location.
+The health officials can view the data of the individual users and determine their health according to the questioner provided to them and mark them as suspected, quarantine or healthy. There will be an alert/alarm notification sent to the health workers along with the traced location If there is any mass gathering so the authorized department can take action.
+
+Features at glance:
+	End User:
+	1. Real Time Location Tracking of user and suspected people around the them.
+	2. Mass Gatherings or crowded areas.
+	3. Dashboard to catch up all the updates of Corona Virus.
+	4. Self Assessment Form
+	5. Location of all the hospitals dedicated for Covid19 Treatment.
+	6. Alerts if you may have come in contact with a suspected or covid postive person.
+
+	Health Workers:
+	1. Dashboard to view all the users, their health status and location.
+	2. Mass gathering and Crowded areas.
+	3. Real Time location of suspected people to ensure quarantine.
+	4. Mark health or change health status of any user.
+	5. View list of all the phones in which a user have come in contact with to prevent community outbreak.
+	6. Alert if there is a suspected mass gathering to inform concerned department to take action.
+
+Contents of Project Directory:
+
+Covid19Locator
+|
+|-- .app
+|
+|-- .idea
+|
+|-- app
+	|
+	|----build
+	|----libs
+	|----src
+		|
+		|----main
+			|
+			|----java
+				|
+				|---in.avrn.www.Covid19Locator
+					|
+					|--activities
+					|--adapters
+					|--constants
+					|--fragments
+					|--http
+					|--models
+					|--serivce
+					|--utilities
+			|----res
+				|--color
+				|--drawable
+				|--layout
+				|--values
+				|--styles
+			|----AndroidManifest.xml
+|
+|--gradle
+|
+|-- APK of our app(Download this directly to your phone to run the app.)
+
+
+Ways to Host our project:
+	NOTE : Must have Android Studio 3.6.2 (Stable) & should be connected to the internet.
+	1. Open the project folder in Android Studio 
+	2. Connect your android device and enable debuggin from developers option.
+	3. Click run and select your device to install the APK.
+	4. An APK(debug) is also included in project file, you can directly install this on your android phone.
+	
