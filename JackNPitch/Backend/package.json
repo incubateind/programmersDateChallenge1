@@ -21,7 +21,7 @@
     "md5": "^2.2.1",
     "mongodb": "^3.5.5",
     "mongoose": "^5.9.6",
-    "validator": "^13.0.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",
